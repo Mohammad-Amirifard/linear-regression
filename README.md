@@ -9,11 +9,11 @@ Our data is a csv file called ex1data1.csv.
 The first column is the population of a city and the second column is the profit of a food truck in that city. A negative value for profit indicates a loss. Please note that in this program all data has been considered as training data
 
 # Prerequisite:
-  1) jupyter notebook
+  1) Jupyter notebook
   2) Pandas pakage
   3) Numpy pakage
-  4) matplot pakage
-  5) some information about linear regression
+  4) Matplot pakage
+  5) Some information about linear regression
 
 # Main file
 The main file is Ex1_Part1.ipynb, including several functions to give a good result
@@ -23,3 +23,5 @@ The main file is Ex1_Part1.ipynb, including several functions to give a good res
 1-load_csv_data is used to load data and determine usfule variables from the file ex1data1.csv 
 2-cost_function is used to find the optimized theta and cost function for the problem using gradient descent algorithem
 3-visualize_2d_graphs is used to visulize our data and the whole process of gradient descent. This file hepls you draw the regression line, cost_function trend, 3d cost function and 2d contour plot.
+
+# No licence
